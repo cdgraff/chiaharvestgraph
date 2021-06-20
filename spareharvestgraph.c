@@ -528,7 +528,7 @@ int main(int argc, char *argv[])
 
 	if (argc != 2)
 	{
-		fprintf( stderr, "Usage: %s ~/.spare/mainnet/log\n", argv[0] );
+		fprintf( stderr, "Usage: %s ~/.sparecoin/mainnet/log\n", argv[0] );
 		exit( 1 );
 	}
 	else
